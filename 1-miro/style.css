@@ -1,0 +1,18 @@
+h1{
+    color: antiquewhite;
+}
+main{
+    background-color: #030030;
+}
+
+label{
+    color: antiquewhite;
+}
+input, select, textarea{
+    background-color: #430030;
+    color: antiquewhite;
+}
+button{
+    background-color: #6C38CC;
+    color: antiquewhite;
+}
